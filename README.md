@@ -1,143 +1,140 @@
-## Hi there 👋
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<!--
-**emul999/emul999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aman Sharma from India 🇮🇳</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+B.Tech Student | Aspiring DevOps & Cloud Engineer | Learning AI/ML
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
+<img align="right" alt="DevOps Automation" width="380" src="https://iconscout.com/lottie-animation/coder-works-on-devops-settings-animation_10764123">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=&animation=fadeIn" alt="banner" width="100%" />
-
-# A M A N   S H A R M A
-
-### **DevOps Engineer • Cloud Enthusiast • AIML Learner**
-
-`DevOps` • `Cloud` • `CI/CD` • `Kubernetes` • `Terraform` • `AWS` • `Python` • `AIML`
-
-### *B.Tech 3rd Year | Building Cloud Infrastructure & Learning AI/ML*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-DevOps_Engineer-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-swart.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emul999)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.sharma@example.com)
-
-</div>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=emul999&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 👋 About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm a passionate **B.Tech 3rd-year student** focused on mastering **DevOps** and **AI/ML**. I love building scalable infrastructure, automating workflows, and exploring how AI can enhance engineering practices.
+I'm a **B.Tech 3rd-year student** passionate about **DevOps, Cloud, and AI/ML**. I enjoy automating workflows, building CI/CD pipelines, containerizing applications, and managing cloud infrastructure. Alongside DevOps, I'm actively learning **Machine Learning** and **AI** to build intelligent, scalable systems.
 
-- 🎓 Pursuing B.Tech (3rd Year)
-- 🔧 Currently learning **Kubernetes, AWS, Terraform & CI/CD**
-- 🤖 Exploring **AIML** — Python, Machine Learning & Data Science
-- 🚀 Building real-world DevOps projects
-- 📍 Based in India
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🚀 DevOps & Platform
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
-
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Scripting & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🤖 AI & ML (Learning)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+- 🎓 Pursuing **B.Tech (3rd Year)**
+- 🔧 Focused on **Kubernetes, AWS, Terraform, CI/CD**
+- 🤖 Exploring **AI/ML** — Python, Scikit-learn, TensorFlow
+- 🌱 Currently building real-world DevOps projects
+- 📍 Based in Indore, India
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 What I Do
 
-<div align="center">
+- Containerize applications using **Docker** and orchestrate on **Kubernetes**
+- Provision cloud infrastructure on **AWS** with **Terraform**
+- Build automated **CI/CD pipelines** with Jenkins & GitHub Actions
+- Set up monitoring & observability using **Prometheus & Grafana**
+- Automate routine ops tasks with **Bash & Python**
+- Learn and apply **Machine Learning** concepts and models
 
-<img src="https://github-readme-stats.vercel.app/api?username=emul999&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emul999&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+## 🧰 Tech Stack
 
-</div>
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 🗄️ Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
+</p>
+
+### 🤖 AI / ML (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-| DevOps | AIML |
-|--------|------|
-| Kubernetes | Python |
+| DevOps & Cloud | AI / ML |
+|----------------|---------|
+| Kubernetes (EKS) | Python |
 | AWS | Pandas & NumPy |
-| Terraform | Scikit-learn |
+| Terraform (IaC) | Scikit-learn |
 | CI/CD Pipelines | TensorFlow |
-| Docker | Data Analysis |
+| Docker & Helm | Data Analysis |
 | Linux & Bash | Machine Learning |
-| Monitoring & Logging | Deep Learning Basics |
 
 ---
 
-## 📈 GitHub Streak
+## 🔗 My Projects
 
-<div align="center">
+- ☁️ **AWS Cloud Deployment** — 3-tier architecture with EC2, ALB, ASG, RDS, S3
+- 🏗️ **Infrastructure as Code** — Reusable Terraform modules (VPC, EKS, IAM)
+- ⚙️ **CI/CD Pipeline** — Jenkins + GitHub Actions with Docker & K8s deploy
+- ⎈ **Kubernetes Deployment** — Microservices with ConfigMaps, Secrets, HPA
+- 📊 **Monitoring Stack** — Prometheus + Grafana + Alertmanager
+- 🐳 **Dockerized Application** — Multi-stage builds & Docker Compose
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emul999&theme=transparent&hide_border=true" alt="GitHub Streak" width="60%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emul999&theme=transparent&no-frame=true&no-bg=true&column=7" alt="Trophies" width="100%" />
-
-</div>
+🔎 See all on [GitHub](https://github.com/emul999?tab=repositories)
 
 ---
 
-## 📝 Recent Activity
+## 📊 GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emul999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emul999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emul999&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emul999&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=150&section=footer&animation=fadeIn" alt="footer" width="100%" />
+<p align="left">
+<a href="https://www.linkedin.com/in/aman-sharma"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/emul999"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://devops-portfolio-swart.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" /></a>
+</p>
 
-### *"Automate everything. Scale anything. Learn continuously."*
+---
 
-⭐ From [emul999](https://github.com/emul999) | Last updated: 2026
-
-</div>
+📫 Reach me at **aman.sharma@example.com**<br>
+🌐 Portfolio: https://devops-portfolio-swart.vercel.app/<br>
+⚡ Fun fact: I love turning manual work into automated pipelines 🚀
