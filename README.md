@@ -6,8 +6,6 @@
 B.Tech Student | Aspiring DevOps & Cloud Engineer | Learning AI/ML
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://lottiefiles.com/animation/professional-male-devops-animation_7233289">
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=emul999&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -15,6 +13,8 @@ B.Tech Student | Aspiring DevOps & Cloud Engineer | Learning AI/ML
 ---
 
 <h2>👨‍💻 About Me</h2>
+
+<img align="right" alt="DevOps" width="360" src="https://cdnl.iconscout.com/lottie/premium/thumb/professional-male-devops-animation-7233289.gif">
 
 I'm a **B.Tech 3rd-year student** passionate about **DevOps, Cloud, and AI/ML**. I enjoy automating workflows, building CI/CD pipelines, containerizing applications, and managing cloud infrastructure. Alongside DevOps, I'm actively learning **Machine Learning** and **AI** to build intelligent, scalable systems.
 
