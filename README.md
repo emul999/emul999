@@ -105,6 +105,31 @@ I'm a **B.Tech 3rd-year student** passionate about **DevOps, Cloud, and AI/ML**.
 
 ---
 
+# 🌐 Learning Hub
+
+<div align="center">
+
+<img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="hub" width="800px">
+
+</div>
+
+| Resource | Description |
+|----------|-------------|
+| 📚 Docs Portal | DevOps, Cloud & AI documentation |
+| 💻 Projects Hub | Hands-on real-world projects |
+| ☸️ Kubernetes Learning | Beginner → CKA |
+| 🐳 Docker to Kubernetes | Complete container journey |
+| 🤖 MLOps Generator | Production-ready MLOps templates |
+| ⚙️ DevOps Generator | DevOps project scaffolding |
+| ☁️ AWS Infra Generator | AWS infrastructure templates |
+| 📊 Monitoring in a Box | Observability stack |
+| 🤖 AI Platform Engineering | AI infrastructure resources |
+| 🧠 Agentic AI | AI Agent learning resources |
+| 🔗 MCP Learning | Model Context Protocol resources |
+| 📦 Repositories Hub | Open-source projects |
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
