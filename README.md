@@ -1,6 +1,6 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<h1 align="center">Hi 👋, I'm Aman Sharma from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Aman Sharma </h1>
 
 <h3 align="center">
 B.Tech Student | Aspiring DevOps & Cloud Engineer | Learning AI/ML
@@ -94,12 +94,7 @@ I'm a **B.Tech 3rd-year student** passionate about **DevOps, Cloud, and AI/ML**.
 
 ## 🔗 My Projects
 
-- ☁️ **AWS Cloud Deployment** — 3-tier architecture with EC2, ALB, ASG, RDS, S3
-- 🏗️ **Infrastructure as Code** — Reusable Terraform modules (VPC, EKS, IAM)
-- ⚙️ **CI/CD Pipeline** — Jenkins + GitHub Actions with Docker & K8s deploy
-- ⎈ **Kubernetes Deployment** — Microservices with ConfigMaps, Secrets, HPA
-- 📊 **Monitoring Stack** — Prometheus + Grafana + Alertmanager
-- 🐳 **Dockerized Application** — Multi-stage builds & Docker Compose
+
 
 🔎 See all on [GitHub](https://github.com/emul999?tab=repositories)
 
